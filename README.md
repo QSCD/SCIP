@@ -7,7 +7,7 @@ If you have an older version follow [this tutorial](https://de.mathworks.com/mat
 
 All processed steps will be displayed in the command window.
 
-Outputs will be stored in the Results_<Imagename> folder
+Outputs will be stored in the Results_'Imagename' folder
 
 Outputfiles:
 
