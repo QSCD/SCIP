@@ -14,3 +14,5 @@ Outputfiles:
 - Coordinates.xslx stores all x,y,z coordinates of detected cells.
 - MAX_proj.tif will show you all detected cells on the projection.
 - stackCropped.tif is the cropped original stack using the envelope around the fitted surface
+
+You can download a Teststack [here] (https://figshare.com/articles/Teststack_zip/5598031) including a callable fiji version and examplary outputfiles for the Teststack.
